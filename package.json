@@ -1,0 +1,26 @@
+{
+  "name": "obituary.js",
+  "version": "1.0.0",
+  "description": "CLI tool for generating obituaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jermspeaks/obituary-js.git"
+  },
+  "keywords": [
+    "cli",
+    "obituary",
+    "generator",
+    "text",
+    "article"
+  ],
+  "author": "Jeremy Wong <jermspeaks@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jermspeaks/obituary-js/issues"
+  },
+  "homepage": "https://github.com/jermspeaks/obituary-js#readme"
+}
